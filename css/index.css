@@ -85,7 +85,7 @@ main {
 /* Список экзотических фруктов */
 .fruits__wrapper {
   flex-basis: 75%;
-  background: #fff;
+  background: rgba(255, 255, 255, 0.684);
   max-height: inherit;
   overflow: hidden;
 }
